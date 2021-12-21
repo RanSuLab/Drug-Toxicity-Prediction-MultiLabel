@@ -78,7 +78,7 @@ python ./examples/classification.py
 	* **integrative-model-jackknife-knn-kidney.py** Integrative model.
 	
 4.	AttRethinkNet-Multilabel-Classification  
-    |-- mlearn.models.rethinknet.rethinkNet.py (Att-RethinkNet framework) 			 
+    |-- mlearn.models.rethinknet.rethinkNet.py (Att-RethinkNet framework)  			 
     |-- examples (Run models and draw ROC curves, 002 means our proposed Att-RethinkNet, 001 means RethinkNet.)  
 
  
