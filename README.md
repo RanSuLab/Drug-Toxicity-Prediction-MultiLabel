@@ -1,5 +1,5 @@
-# Drug-Toxicity-Prediction-MultiLabel
-A multi-label learning model for predicting drug-induced toxicity in multi-organ based on toxicogenomics data
+# Drug-Toxicity-Prediction-MultiLabel-Project
+A multi-label learning model for predicting drug-induced toxicity in multi-organ based on toxicogenomics data.
 
 
 # Keywords
