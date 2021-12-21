@@ -1,4 +1,4 @@
-# Att-RethinkNet-Project
+# Drug-Toxicity-Prediction-MultiLabel
 A multi-label learning model for predicting drug-induced toxicity in multi-organ based on toxicogenomics data
 
 
@@ -34,7 +34,7 @@ Drug-induced Toxicity, Multi-label, Prediction, Multi-organ, Gene Expression Dat
 
 
 # Installation
-- Drug-Toxicity-Prediction-MultiLabel/AttRethinkNet-Multilabel-Classification
+FILE: Drug-Toxicity-Prediction-MultiLabel/AttRethinkNet-Multilabel-Classification
 
 Install packages
 ```bash
@@ -77,15 +77,16 @@ python ./examples/classification.py
 	* **drug_featureSelection_mlClassifier_svm_kidney.py** Base classifier: Linear support vector machines (svm). 
 	* **integrative-model-jackknife-knn-kidney.py** Integrative model.
 4.	AttRethinkNet-Multilabel-Classification
-    |-- mlearn
-       |-- models
-	      |-- rethinknet
-		     |-- rethinkNet.py (Att-RethinkNet framework)
-    |-- examples (Run models and draw ROC curves, 002 means our proposed Att-RethinkNet, 001 means RethinkNet.)
+    |-- mlearn  
+       |-- models  
+	      |-- rethinknet  
+		     |-- rethinkNet.py (Att-RethinkNet framework)  
+    |-- examples (Run models and draw ROC curves, 002 means our proposed Att-RethinkNet, 001 means RethinkNet.)  
 
  
 # Use
-Download datasets->MLSMOTE->MLFS->Feature selection and classification.
+Traditional Methods: Download datasets->MLSMOTE->MLFS->Feature selection->Classification.
+Att-RethinkNet Method: Download datasets->MLSMOTE->Att-RethinkNet Classification.
 
 
 # Contact
