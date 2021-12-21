@@ -82,7 +82,7 @@ python ./examples/classification.py
     * examples (Run models and draw ROC curves, 002 means our proposed Att-RethinkNet, 001 means RethinkNet.)  
 
  
-# Use
+# How to Use
 **Traditional Methods:** Download datasets->MLSMOTE->MLFS->Feature selection->Classification.  
 **Att-RethinkNet Method:** Download datasets->MLSMOTE->Att-RethinkNet Classification.
 
