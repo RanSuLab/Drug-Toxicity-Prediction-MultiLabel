@@ -76,12 +76,10 @@ python ./examples/classification.py
 	* **drug_featureSelection_mlClassifier_rf_kidney.py** Base classifier: Random forest (rf). 
 	* **drug_featureSelection_mlClassifier_svm_kidney.py** Base classifier: Linear support vector machines (svm). 
 	* **integrative-model-jackknife-knn-kidney.py** Integrative model.
+	
 4.	AttRethinkNet-Multilabel-Classification  
-    >|-- mlearn   
-       >>|-- models   
-	      >>>|-- rethinknet   
-		     >>>>|-- rethinkNet.py (Att-RethinkNet framework)  
-    >|-- examples (Run models and draw ROC curves, 002 means our proposed Att-RethinkNet, 001 means RethinkNet.)  
+    |-- mlearn.models.rethinknet.rethinkNet.py (Att-RethinkNet framework) 			 
+    |-- examples (Run models and draw ROC curves, 002 means our proposed Att-RethinkNet, 001 means RethinkNet.)  
 
  
 # Use
