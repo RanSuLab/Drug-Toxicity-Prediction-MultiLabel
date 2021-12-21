@@ -78,13 +78,13 @@ python ./examples/classification.py
 	* **integrative-model-jackknife-knn-kidney.py** Integrative model.
 	
 4.	AttRethinkNet-Multilabel-Classification  
-    |-- mlearn.models.rethinknet.rethinkNet.py (Att-RethinkNet framework)  			 
-    |-- examples (Run models and draw ROC curves, 002 means our proposed Att-RethinkNet, 001 means RethinkNet.)  
+    * mlearn.models.rethinknet.rethinkNet.py (Att-RethinkNet framework)  			 
+    * examples (Run models and draw ROC curves, 002 means our proposed Att-RethinkNet, 001 means RethinkNet.)  
 
  
 # Use
-Traditional Methods: Download datasets->MLSMOTE->MLFS->Feature selection->Classification.  
-Att-RethinkNet Method: Download datasets->MLSMOTE->Att-RethinkNet Classification.
+**Traditional Methods:** Download datasets->MLSMOTE->MLFS->Feature selection->Classification.  
+**Att-RethinkNet Method:** Download datasets->MLSMOTE->Att-RethinkNet Classification.
 
 
 # Contact
