@@ -83,7 +83,7 @@ python ./examples/classification.py
 
  
 # Use
-Traditional Methods: Download datasets->MLSMOTE->MLFS->Feature selection->Classification.
+Traditional Methods: Download datasets->MLSMOTE->MLFS->Feature selection->Classification.  
 Att-RethinkNet Method: Download datasets->MLSMOTE->Att-RethinkNet Classification.
 
 
