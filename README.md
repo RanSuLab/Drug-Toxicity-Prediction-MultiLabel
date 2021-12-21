@@ -11,26 +11,26 @@ Drug-induced Toxicity, Multi-label, Prediction, Multi-organ, Gene Expression Dat
 
 
 # Requires
-  R version 3.4.0
-  Python version 3.6.6
+  R version 3.4.0  
+  Python version 3.6.6  
 
-  keras==2.4.3
-  tensorflow==2.2.0
-  numpy>=1.17
-  scipy==1.4.1
-  Cython>=0.29
-  scikit-learn==0.23.2
-  setuptools==50.0.3
-  absl-py==0.10.0
-  matplotlib==3.2.0
-  joblib==0.16.0
-  h5py==2.10.0
-  pandas==1.1.2
-  six
-  liac-arff
-  arff
-  tqdm
-  astor
+  keras==2.4.3  
+  tensorflow==2.2.0  
+  numpy>=1.17  
+  scipy==1.4.1  
+  Cython>=0.29  
+  scikit-learn==0.23.2  
+  setuptools==50.0.3  
+  absl-py==0.10.0  
+  matplotlib==3.2.0  
+  joblib==0.16.0  
+  h5py==2.10.0  
+  pandas==1.1.2  
+  six  
+  liac-arff  
+  arff  
+  tqdm  
+  astor  
 
 
 # Installation
